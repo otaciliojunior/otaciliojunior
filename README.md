@@ -1,7 +1,7 @@
 Téc. In agroindústria 
 
-Téc. Redes  🌐 
+TI  💻
 
-TI  💻 
+Téc. Redes  🌐 
 
 Programador "Hello World"  🧑🏽‍💻
