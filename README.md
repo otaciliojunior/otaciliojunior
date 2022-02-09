@@ -1,7 +1,9 @@
-Téc. In agroindústria 
+Técnico in agroindústria.
 
 TI  💻
 
-Téc. Redes  🌐 
+Téc. Redes.  🌐 
 
-Programador "Hello World"  🧑🏽‍💻
+Programador "Hello World".  🧑🏽‍💻
+
+
