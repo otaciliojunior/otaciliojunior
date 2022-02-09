@@ -1,8 +1,5 @@
-- 👋 Olá, eu I’m @otaciliojunior
-- 👀 I’m interested in Automações 
-- 📫 How to reach me : Use o email otaciliojr.quirino@gmail.com
+Hello, my name is Otacílio,
+My favorite language is Python.🧡
+I'm looking for new talent in HTML and CSS. 👀 
+My strong point that makes me create new codes is coffee. ☕
 
-<!---
-otaciliojunior/otaciliojunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
