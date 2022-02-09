@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @otaciliojunior
+- 👋 Olá, eu I’m @otaciliojunior
 - 👀 I’m interested in Automações 
 - 📫 How to reach me : Use o email otaciliojr.quirino@gmail.com
 
