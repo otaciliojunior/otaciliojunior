@@ -1,4 +1,4 @@
-Técnico in agroindústria.
+Técnico in Agroindústria.
 
 TI  💻
 
