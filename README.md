@@ -1,10 +1,14 @@
-Técnico in Agroindústria.
 
-TI  💻
+Usuário Linux 🐧
+<br>
+Redes 💻
+<br>
+Programmer Python
+<b> 
+<br>&
+<Br>
+Entusiasta da segurança da informação 🧑🏽‍💻
 
-Téc. Redes.  🌐 
-
-Programador "Hello World".  🧑🏽‍💻
 
 <div> 
   
