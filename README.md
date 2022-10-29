@@ -1,10 +1,9 @@
 
 Usuário Linux
 <br>
-Programador ▫️ Hacking ▫️ Redes ▫️ Tecnologia
-<br>
 E curto uns lances de cyber security 
 <Br>
+Programador ▫️ Hacking ▫️ Redes ▫️ Tecnologia
 <div> 
   <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/otto.jrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
