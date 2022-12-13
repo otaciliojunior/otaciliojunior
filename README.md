@@ -3,7 +3,7 @@ Usuário Linux
 <br>
 E curto uns lances de cyber security 
 <Br>
-Programador ▫️ Hacking ▫️ Redes ▫️ Tecnologia
+Desenvolvedor front ▫️ Hacking ▫️ Redes ▫️ Tecnologia
 <div>
   
   <div style="display: inline_block"><br>
